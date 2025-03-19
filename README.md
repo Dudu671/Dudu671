@@ -39,5 +39,5 @@ Padrão **MVC**, desenvolvimento de **APIs REST**, otimização de banco de dado
 
 ## 📫 Como me encontrar  
 
-- 💼 [LinkedIn](www.linkedin.com/in/eduardo-rodrigues-891749137)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/eduardo-rodrigues-891749137)  
 - 📧 Email: **eduardoooax@gmail.com**  
